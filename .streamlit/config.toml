@@ -1,0 +1,11 @@
+[theme]
+# Primary Varroc Electric Green
+primaryColor = "#2ECC71"
+# Slate Grey Industrial Background
+backgroundColor = "#1A1C1E"
+# Slightly lighter grey for Surface Elevation (Cards, Panels)
+secondaryBackgroundColor = "#25282C"
+# High contrast text
+textColor = "#FFFFFF"
+# Font style
+font = "sans serif"
